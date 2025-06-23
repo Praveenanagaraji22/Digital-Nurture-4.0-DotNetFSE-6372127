@@ -1,0 +1,15 @@
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\bin\Debug\net9.0\DependencyInjectionExample.exe
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\bin\Debug\net9.0\DependencyInjectionExample.deps.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\bin\Debug\net9.0\DependencyInjectionExample.runtimeconfig.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\bin\Debug\net9.0\DependencyInjectionExample.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\bin\Debug\net9.0\DependencyInjectionExample.pdb
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\DependencyInjectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\DependencyInjectionExample.AssemblyInfoInputs.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\DependencyInjectionExample.AssemblyInfo.cs
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\DependencyInjectionExample.csproj.CoreCompileInputs.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\DependencyInjectionExample.sourcelink.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\DependencyInjectionExample.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\refint\DependencyInjectionExample.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\DependencyInjectionExample.pdb
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\DependencyInjectionExample.genruntimeconfig.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndPrinciple\DependencyInjectionExample\obj\Debug\net9.0\ref\DependencyInjectionExample.dll

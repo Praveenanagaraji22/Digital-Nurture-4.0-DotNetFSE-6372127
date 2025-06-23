@@ -1,0 +1,15 @@
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\bin\Debug\net9.0\Sorting_Customer_Orders.exe
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\bin\Debug\net9.0\Sorting_Customer_Orders.deps.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\bin\Debug\net9.0\Sorting_Customer_Orders.runtimeconfig.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\bin\Debug\net9.0\Sorting_Customer_Orders.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\bin\Debug\net9.0\Sorting_Customer_Orders.pdb
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\Sorting_Customer_Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\Sorting_Customer_Orders.AssemblyInfoInputs.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\Sorting_Customer_Orders.AssemblyInfo.cs
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\Sorting_Customer_Orders.csproj.CoreCompileInputs.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\Sorting_Customer_Orders.sourcelink.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\Sorting_Customer_Orders.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\refint\Sorting_Customer_Orders.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\Sorting_Customer_Orders.pdb
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\Sorting_Customer_Orders.genruntimeconfig.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DataStructures\Sorting_Customer_Orders\obj\Debug\net9.0\ref\Sorting_Customer_Orders.dll

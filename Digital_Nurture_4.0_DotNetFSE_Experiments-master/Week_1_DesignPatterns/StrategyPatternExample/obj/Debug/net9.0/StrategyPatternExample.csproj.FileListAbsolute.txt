@@ -1,0 +1,15 @@
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\bin\Debug\net9.0\StrategyPatternExample.exe
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\bin\Debug\net9.0\StrategyPatternExample.deps.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\bin\Debug\net9.0\StrategyPatternExample.runtimeconfig.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\bin\Debug\net9.0\StrategyPatternExample.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\bin\Debug\net9.0\StrategyPatternExample.pdb
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\StrategyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\StrategyPatternExample.AssemblyInfoInputs.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\StrategyPatternExample.AssemblyInfo.cs
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\StrategyPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\StrategyPatternExample.sourcelink.json
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\StrategyPatternExample.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\refint\StrategyPatternExample.dll
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\StrategyPatternExample.pdb
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\StrategyPatternExample.genruntimeconfig.cache
+C:\Users\SEC\OneDrive\Documents\Digital_Nurture_4.0_DotNetFSE\Week_1_DesignPatternsAndDataStructures\StrategyPatternExample\obj\Debug\net9.0\ref\StrategyPatternExample.dll

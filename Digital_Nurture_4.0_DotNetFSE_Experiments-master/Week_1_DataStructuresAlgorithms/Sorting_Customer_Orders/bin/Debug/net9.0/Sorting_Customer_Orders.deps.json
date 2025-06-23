@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sorting_Customer_Orders/1.0.0": {
+        "runtime": {
+          "Sorting_Customer_Orders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorting_Customer_Orders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
