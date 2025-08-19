@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider/VS Code
+.idea/
+.vscode/
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+[Bb]uild/
+[Ll]ogs/
+
+# Test
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Misc
+*.log
+*.cache
+*.tmp
+*.DS_Store
+Thumbs.db
