@@ -2,7 +2,7 @@
 # Adapter Pattern Example
 
 ## Aim
-To implement the Adapter Design Pattern in Java for a payment processing system that integrates multiple third-party payment gateways with different interfaces using a common adapter interface.
+To implement the Adapter Design Pattern in C# for a payment processing system that integrates multiple third-party payment gateways with different interfaces using a common adapter interface.
 
 ## Objective
 - To understand and apply the Adapter Pattern.
